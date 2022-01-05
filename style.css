@@ -56,3 +56,42 @@ h1{
     .top-section-pic img{
         width: 400px;
         height: 450px;
+    }
+
+    .my-mission{
+        text-align: center;
+        margin-bottom: 50px;
+        justify-content: space-around;
+        margin: 50px 100px;
+
+    }
+
+    .cards{
+       width: 50%; 
+       text-align: left;
+       margin: 20px 10px;
+    }
+
+    .cards img{
+        width: 60%;
+
+    }
+    
+    #mission{
+        border-radius: 25px;
+        background: #87a55c;
+        padding: 20px;
+    
+    }
+    #vision{
+        border-radius: 25px;
+        background: #87a6d4;
+        padding: 20px;
+    
+    }
+    #goals{
+        border-radius: 25px;
+        background: #bbb08e;
+        padding: 20px;
+    
+    }

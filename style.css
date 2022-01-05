@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.flex{
+    display: flex;
+}
+
+.top-section{
+padding:50px 100px 50px 100px;
+
+}
+
+.half-width{
+    width: 50%;
+
+}
+h1{
+    font-size: 40px;
+}
+.left-border{
+    border-left: 8px solid gray;
+}
+
+.first-text{
+    margin-left: 15px;
+}
+.color{
+    color: red;
+}
+
+.button{
+    text-decoration: none;
+    padding: 10px 40px;
+    border:1px solid;
+    border:none;
+    background-color: rgb(172, 127, 255);
+    color: white;
+
+  
+    
+}
+
+.top-section .half-width p{
+    margin-bottom: 40px;
+    }
+
+    
+
+    .top-section-pic{
+        width: 50%;
+        text-align: center;
+        
+    }
+    .top-section-pic img{
+        width: 400px;
+        height: 450px;
